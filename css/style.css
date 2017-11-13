@@ -1,0 +1,138 @@
+* {
+	margin:0;
+	padding: 0;
+}
+
+/* Home Page */
+a {
+	color: white;
+}
+
+header h1, header p {
+	font-family: 'Baloo Bhaijaan', cursive;
+	color: white;
+	font-weight: lighter;
+	text-align: center;
+}
+
+header .main {
+	height: 70vh;
+	margin-top: 1px;
+	background: url(../img/bs.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: auto;
+
+}
+
+header .main button {
+	margin-left: 45%;
+}
+
+
+.main p {
+	margin-top: 90px;
+}
+
+
+.wrap1 img {
+	width: 350px;
+	height: auto;
+  
+}
+
+.wrap1 {
+	margin: 30px auto;
+	text-align: center;
+}
+
+
+.wrap {
+	background-color: #d3d3d3;
+	width: 100%;
+	text-align: center;
+	margin: 30px auto;
+	height: 200px;
+}
+
+.wrap3 img {
+	width: 400px;
+	height: auto;
+	margin-top: -30px;
+}
+
+.wrap3 p {
+	margin-top: 50px;
+}
+
+.wrap3 h3 {
+	margin-top: 120px;
+}
+
+.wrap h3 {
+	margin-top: 40px;
+}
+
+footer {
+	background-color: #5cb85c;
+	color: white;
+	height: 5rem;
+	margin-top: 10px;
+}
+
+/**About Us */
+
+
+.section2 h6 {
+	color: black;
+}
+
+.section1 img {
+	width: 100%;
+	height: auto;
+}
+
+.section2 {
+	background-color: #5cb85c;
+	color: white;
+	margin-top: 10px;
+	height: 350px;
+}
+
+.section2 h6  {
+	margin-top: 25px;
+}
+
+.section3 img {
+	width: 100%;
+	height: auto;
+}
+
+/* Contact */
+
+
+.sec1 {
+
+	background-image: url(../img/office.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 350px;
+	color: black;
+}
+
+.sec2 {
+	background-color: #eee;
+}
+
+/* Features */
+
+.s2 {
+	background-color: black;
+	color: white;
+}
+
+footer {
+	height: 5rem;
+
+}
